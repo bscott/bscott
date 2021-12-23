@@ -7,4 +7,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Love the Go language and used to be a professional laster tag player :)
 
-<a href="https://app.daily.dev/bscott"><img src="https://api.daily.dev/devcards/0569d0919d64409abf56f3600993bf26.png?r=ys1" width="400" alt="Brian Scott's Dev Card"/></a>
+<a href="https://app.daily.dev/bscott"><img src="devcard.png" width="400" alt="Brian Scott's Dev Card"/></a>
